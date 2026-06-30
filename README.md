@@ -18,4 +18,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0232-implement-queue-using-stacks) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
