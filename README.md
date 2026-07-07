@@ -20,6 +20,7 @@
 | [0225-implement-stack-using-queues](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Array
 |  |
@@ -47,4 +48,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0239-sliding-window-maximum) |
+## String
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0649-dota2-senate) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
