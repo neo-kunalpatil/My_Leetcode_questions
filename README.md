@@ -59,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -67,6 +68,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
