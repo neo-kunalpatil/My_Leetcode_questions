@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0344-reverse-string) |
 | [0649-dota2-senate](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0649-dota2-senate) |
 ## Greedy
 |  |
