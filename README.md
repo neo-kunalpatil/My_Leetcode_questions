@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0078-subsets) |
 | [0239-sliding-window-maximum](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
@@ -85,6 +86,11 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0342-power-of-four) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
