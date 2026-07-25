@@ -54,6 +54,7 @@
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0344-reverse-string) |
 | [0649-dota2-senate](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0649-dota2-senate) |
@@ -92,6 +93,11 @@
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0077-combinations](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
