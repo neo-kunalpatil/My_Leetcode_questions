@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0078-subsets) |
 | [0239-sliding-window-maximum](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0239-sliding-window-maximum) |
@@ -32,6 +33,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0344-reverse-string) |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
