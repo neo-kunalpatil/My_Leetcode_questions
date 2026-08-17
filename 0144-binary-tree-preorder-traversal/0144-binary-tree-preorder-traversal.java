@@ -14,25 +14,40 @@
  * }
  */
 
- 
+ // preorder using stack .
 class Solution {
+    public void preorder(TreeNode root , Stack<TreeNode> st,List<Integer> ans) {
+        if(root!=null) {
+            st.push(root);
+        }
 
-public static void preorder(TreeNode root , List<Integer> ans) {
+        while(!st.isEmpty()) {
+            TreeNode r= st.pop();
+            ans.add(r.val);
 
-    if(root==null) {
-        return;
+            if(r.right!=null) {
+           st.push(r.right);
+            }
+            if(r.left!=null) {
+               st.push(r.left);
+                
+            }
+            
+
+           
+        }
+
+
+
     }
-ans.add(root.val);
-preorder(root.left, ans);
-preorder(root.right, ans);
-
-System.out.println(ans);
-}
     public List<Integer> preorderTraversal(TreeNode root) {
-          List<Integer> ans= new ArrayList<>();
-    preorder(root , ans);
-      
-       return ans;
+        List<Integer> ans = new Stack<>();
+        Stack<TreeNode> st= new Stack<>();
+
+        preorder(root ,st,ans);
+        return ans;
+
+
         
     }
 }
