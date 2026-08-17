@@ -23,7 +23,7 @@ int left = levels(root.left);
 int right= levels(root.right);
         return 1+ Math.max(left ,right);
     }
-    private static List<Integer> level(TreeNode root,int n, int level,List<Integer> ans,List<List<Integer>> res ) {
+    private static List<Integer> level(TreeNode root,int n, int level,List<Integer> ans ) {
         if(root== null) {
             return ans;
         }
@@ -33,8 +33,8 @@ int right= levels(root.right);
             return ans;
         }
 
-        level(root.left,n,level+1,ans,res);
-        level(root.right,n,level+1,ans,res);
+        level(root.left,n,level+1,ans);
+        level(root.right,n,level+1,ans);
 
       return ans;
 
@@ -51,7 +51,7 @@ int right= levels(root.right);
         for(int x=0; x<levels(root);x++) {
             int n=x;
             
-            level(root,n,0,ans= new ArrayList<>(),res);
+            level(root,n,0,ans= new ArrayList<>());
             res.add(ans);
         }
 
