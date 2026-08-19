@@ -26,8 +26,9 @@ public void preorder(TreeNode root , int level, List<Integer> ans) {
     if(root==null) {
         return;
     }
-    ans.set(level, root.val);
+    
     preorder(root.left, level+1, ans);
+    ans.set(level, root.val);
     preorder(root.right, level+1,ans);
 }
 
