@@ -14,67 +14,66 @@
  * }
  */
 class Solution {
-    private int level(TreeNode root) {
+    int level(TreeNode root) {
         if(root==null) {
             return 0;
         }
 
         int left= level(root.left);
-     int right= level(root.right);
+        int right = level(root.right);
 
-        return 1+ Math.max(left, right);
+        return 1+ Math.max(left , right);
     }
 
-    public List<Integer> zigzag(TreeNode root , int n, int level, List<Integer> ans) {
-        if(root==null) {
-            return ans;
-        }
-        if(level==n) {
-            ans.add(root.val);
-            return ans;
-        }
-      if(n%2==0)  {
-           if(root.left!=null) {zigzag(root.left , n, level+1,ans); }
-          if(root.right!=null) {zigzag(root.right,n,level+1,ans); }
 
-        
-      }
-      else  {
-       if(root.right!=null) {zigzag(root.right,n,level+1,ans); }
-        if(root.left!=null) {zigzag(root.left , n, level+1,ans); }
-       
+    List<Integer> zigzag(TreeNode root , int n , int level , List<Integer> ans ) {
+  if(root==null) {
+    return ans;
+  }
 
+  if(n==level){
+    ans.add(root.val);
+    return ans;
+  }
+
+  if(n%2==0) {
+    if(root.left!=null) {
+        zigzag(root.left, n, level+1, ans); }
+      if(root.right!=null) {  zigzag(root.right, n, level+1, ans);
       }
 
-        return ans;
+    
+  }
+else{
+    if(root.right!=null) {  
+        zigzag(root.right, n, level+1, ans);
+      }
+    if(root.left!=null) {
+        zigzag(root.left, n, level+1, ans); }
+      
 
+  }
 
+return ans;
 
 
 
 
     }
+
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> res= new ArrayList<>();
+        List<List<Integer>> res = new ArrayList<>();
         
 
-        for(int x=0;x<level(root);x++) {
-            List<Integer> ans= new ArrayList<>();
+        for(int x=0 ; x<level(root); x++) {
             int n=x;
-            zigzag(root,n,0,ans);
+            List<Integer> ans= new ArrayList<>();
+
+            zigzag(root , n, 0, ans);
             res.add(ans);
-
-
         }
 
         return res;
         
     }
 }
-
-
-
-
-
-
-// i want to use depth first search here .using nth order.
