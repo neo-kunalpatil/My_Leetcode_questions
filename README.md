@@ -35,6 +35,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
 |  |
 | ------- |
