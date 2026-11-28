@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0217-contains-duplicate) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0344-reverse-string) |
