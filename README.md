@@ -32,6 +32,7 @@
 | [0027-remove-element](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0078-subsets) |
 | [0239-sliding-window-maximum](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0239-sliding-window-maximum) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/1672-richest-customer-wealth) |
@@ -81,6 +82,7 @@
 | [0231-power-of-two](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/neo-kunalpatil/My_Leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
