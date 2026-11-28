@@ -17,7 +17,7 @@ class Solution {
             }
         }
 
-        return j+1;
+        return i;
         
     }
 }
